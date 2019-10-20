@@ -1,0 +1,43 @@
+
+
+
+#open{
+    
+   -fx-background-image: url("img/folder-media-icon.png");
+   -fx-background-position:  center;
+   -fx-background-size: 20 20;
+   -fx-background-repeat: no-repeat;
+   -fx-background-color:transparent; 
+    
+    
+}
+
+#play{
+    
+   -fx-background-image: url("img/Play.png");
+   -fx-background-position:  center;
+   -fx-background-size: 20 20;
+   -fx-background-repeat: no-repeat;
+    -fx-background-color:transparent; 
+    
+}
+
+#pause{
+    
+   -fx-background-image: url("img/Pause-icon.png");
+   -fx-background-position:  center;
+   -fx-background-size: 20 20;
+   -fx-background-repeat: no-repeat;
+    -fx-background-color:transparent; 
+    
+}
+
+#stop{
+    
+   -fx-background-image: url("img/Button-Stop-icon.png");
+   -fx-background-position:  center;
+   -fx-background-size: 20 20;
+   -fx-background-repeat: no-repeat;
+    -fx-background-color:transparent; 
+    
+}
